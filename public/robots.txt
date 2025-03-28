@@ -58,7 +58,7 @@ Allow: /*.png$
 Allow: /*.webp$
 
 # Sitemap
-Sitemap: https://ai-nav-site.vercel.app/sitemap.xml
+Sitemap: https://ai-site.zyfx6.xyz/sitemap.xml
 
 # Host
-Host: https://ai-nav-site.vercel.app
+Host: https://ai-site.zyfx6.xyz/
